@@ -1,0 +1,14 @@
+layout_spectrum: 0.5510196
+color:
+  saturation: 0.3265564
+  lightness: 0.422348
+  brandStrength: 0.6201503
+  brandColors:
+    - '#FFFFFF'
+    - '#2B2219'
+    - '#D4DCE7'
+    - '#6C472B'
+    - '#8F7A5B'
+  rhythmicContrast: 0.8264716
+typography_spectrum: 0.5296205
+name: Dwane
