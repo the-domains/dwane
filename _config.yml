@@ -1,3 +1,17 @@
+typography_spectrum: 0.5296205
+color:
+  saturation: 0.5878136
+  brandStrength: 0.6201503
+  lightness: 0.9623656
+  brandColors:
+    - '#FFFFFF'
+    - '#2B2219'
+    - '#D4DCE7'
+    - '#6C472B'
+    - '#8F7A5B'
+  rhythmicContrast: 1
+layout_spectrum: 0.1863799
+name: Dwane
 collections:
   - index:
       path: /
@@ -10,17 +24,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.5878136
-  brandStrength: 0.6201503
-  lightness: 0.9623656
-  brandColors:
-    - '#FFFFFF'
-    - '#2B2219'
-    - '#D4DCE7'
-    - '#6C472B'
-    - '#8F7A5B'
-  rhythmicContrast: 1
-typography_spectrum: 0.5296205
-layout_spectrum: 0.1863799
-name: Dwane
+title: Revel
