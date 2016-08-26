@@ -12,6 +12,10 @@ color:
   rhythmicContrast: 1
 layout_spectrum: 0.1863799
 name: Dwane
+navigation:
+  - name: Revel in the light
+    id: 34df88ed-b033-493a-94d6-99b9fb6046ca
+    type: content
 collections:
   - index:
       path: /
