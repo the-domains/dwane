@@ -1,28 +1,28 @@
-typography_spectrum: 0.5296205
 color:
   saturation: 0.5878136
   brandStrength: 0.6201503
-  lightness: 0.9623656
+  rhythmicContrast: 1
   brandColors:
     - '#FFFFFF'
     - '#2B2219'
     - '#D4DCE7'
     - '#6C472B'
     - '#8F7A5B'
-  rhythmicContrast: 1
-layout_spectrum: 0.1863799
-name: Dwane
+  lightness: 0.9623656
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 title: Revel Design
+layout_spectrum: 0.1863799
+typography_spectrum: 0.5296205
 description: see the light
+name: Dwane
